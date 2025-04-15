@@ -50,7 +50,7 @@ This project presents a data-driven framework to detect anomalies and fraudulent
 - ROC-AUC Score: **0.94** (LogReg) and **0.98** (FNN)
 - Built with performance, interpretability, and fraud risk mitigation in mind
 
-## 📈 Future Enhancements
+## Future Enhancements
 
 - Deploy model into a real-time streaming pipeline
 - Explore ensemble models (e.g., Random Forest, XGBoost)
