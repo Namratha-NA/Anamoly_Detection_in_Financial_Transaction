@@ -43,7 +43,7 @@ This project presents a data-driven framework to detect anomalies and fraudulent
 - **Statistical Tools:** Chi-square, t-Test, ANOVA, Kruskal-Wallis
 - **Visualization:** Seaborn heatmaps, ROC plots, confusion matrices
 
-## Highlights
+## Insights
 
 - Balanced class representation using sampling strategies to handle imbalance in fraud labels
 - Feature engineering and parameter estimation using MLE and RMSE
